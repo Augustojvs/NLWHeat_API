@@ -20,5 +20,3 @@ class CreateMessageController {
 }
 
 export { CreateMessageController }
-
-// 1:35:40
